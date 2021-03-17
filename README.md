@@ -8,6 +8,8 @@ Node js Application
 
 •	express-app folder contains Module 2 assignment part -2 
 
-      - For this part to be run you have to install Nginx and then change the nginx.config file content with the file content given in the config-file-for-nginx folder. After changing run or start nginx
+      - For this part to be run...
+      - install Nginx and then change the nginx.config file content with the file given in the config-file-for-nginx folder.
+      - After changing run or start nginx
       - Then after run “pm2 start app.js” command on the cmd or node js command prompt.
 
