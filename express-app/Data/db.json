@@ -1,0 +1,23 @@
+[
+    {
+        "id":"jhshf78343juhjkshjh344",
+         "name":"Black Panther",
+         "language": "English",
+         "rate": 4.5,
+         "type":"action"
+    },
+    {
+        "id":"jkdfsh9823472872839",
+         "name":"Avenger",
+         "language": "English",
+         "rate": 4.7,
+         "type":"action sci-fi"
+    },
+    {
+        "id":"kdsljw0293485kljklj",
+         "name":"Thor",
+         "language": "English",
+         "rate": 4.0,
+         "type":"action sci-fi"
+    }
+]
